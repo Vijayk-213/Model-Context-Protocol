@@ -1,0 +1,12 @@
+# Employee Records
+ID, Name, Department, Salary, Joining Date
+101, Alice Johnson, Engineering, 75000, 2021-06-15
+102, Bob Smith, Marketing, 68000, 2020-08-22
+103, Charlie Brown, HR, 72000, 2019-05-30
+104, David Williams, Finance, 80000, 2018-12-10
+105, Eva Davis, IT, 77000, 2022-01-25
+
+# Company Notes
+- Company is expanding operations in Europe.
+- Employee training sessions scheduled for Q3.
+- New HR policies effective from next month.

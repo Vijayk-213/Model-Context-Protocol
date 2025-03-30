@@ -1,0 +1,11 @@
+
+httpx
+fastmcp
+python-dotenv
+aiofiles
+pandas
+python-docx
+lxml
+openpyxl
+fastapi
+google-generativeai
